@@ -89,14 +89,14 @@ Daily Standup 也可以判斷出一個團隊的氣氛如何，從一開始有沒
 * **Speed Boat**
 * **魚骨圖**
 
-### Start, Stop, Continue
+#### Start, Stop, Continue
 ![](/posts/20220213/start_stop_continue.png)
 
-### Mad Sad Glad
+#### Mad Sad Glad
 ![](/posts/20220213/mad_sad_glad.jpeg)
 幫助團隊去尋找哪些讓他們開心、難過、生氣，甚麼事做得好，甚麼事可以再做改進，讓大家互相瞭解對方的想法，並從中改善、增加團隊士氣及工作滿意度
 
-### Speed Boat
+#### Speed Boat
 ![](/posts/20220213/speed_boat.png)
 目的：讓團隊清楚知道每個項目的意義，以及釐清為什麼是放在這個分類
 
@@ -106,7 +106,7 @@ Daily Standup 也可以判斷出一個團隊的氣氛如何，從一開始有沒
 * risk: 可能導致**將來做得比較慢的原因**
 
 
-### 魚骨圖
+#### 魚骨圖
 ![](/posts/20220213/fish_bone.png)
 
 這些Sprint Retrospective其實目的都差不多，只是用不同方式來進行。
@@ -127,8 +127,10 @@ Daily Standup 也可以判斷出一個團隊的氣氛如何，從一開始有沒
 ## 用戶故事/用戶故事地圖
 
 老師提出了「建立高鐵售票網站」的題目，讓小組在短暫的時間內去發想可能的功能有哪些？並使用使用者故事（User Story）的方式來表達，格式為以下：
-### As a [role] I can [function] so that [business value]
-e.g. As a bookstore customer, I can search for book by the title, So that I can easily find all books with that title.
+
+**As a [role] I can [function] so that [business value]**
+
+> e.g. As a bookstore customer, I can search for book by the title, So that I can easily find all books with that title.
 
 在這裡的business value所要表達的是為什麼要這個功能?要解決的是甚麼事？並且是使用商業語言來去描述。藉由User Story我們就先拿這個東西讓我們可以跟用戶<span style="color:blue">討論</span>再來擬定細節，並不是就不寫細節，這邊的重點會是在<span style="color:blue">討論</span>這塊。
 
@@ -146,8 +148,6 @@ e.g. As a bookstore customer, I can search for book by the title, So that I can 
 包含了訂票、付款、取票、退票、效能等high level的需求描述，並先從網頁開始開發，再進階到7-11、手機整合到最後的優惠組合。
 
 ## Scrum...要考慮的點
-
-
 
 ### 評估原則
 要如何有效地評估出這次Sprint可完成的項目數呢？主要分為兩種做法：
